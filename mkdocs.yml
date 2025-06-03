@@ -1,0 +1,10 @@
+site_name: GenAI in Education
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Personalized Learning: personalized_learning.md
+  - Curriculum Development: curriculum_development.md
+  - Teacher's Role: teachers_role.md
+  - Ethical Considerations: ethical_considerations.md
+  - Future Outlook: future_outlook.md
+  - Development: development.md
